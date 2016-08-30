@@ -61,7 +61,7 @@ namespace variabler
             Console.WriteLine("Tryck ned valfri tangent för att fortsätta...");
             Console.ReadKey();
             */
-            //Övning5
+            //Övning 5
             Console.Write("Cirkelns radie: ");
             string radie = Console.ReadLine();
             double nyttVärde = double.Parse(radie);
