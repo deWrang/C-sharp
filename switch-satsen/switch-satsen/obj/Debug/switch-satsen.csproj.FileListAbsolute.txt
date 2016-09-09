@@ -1,0 +1,6 @@
+c:\users\elliotdg\documents\visual studio 2015\Projects\switch-satsen\switch-satsen\bin\Debug\switch-satsen.exe.config
+c:\users\elliotdg\documents\visual studio 2015\Projects\switch-satsen\switch-satsen\obj\Debug\switch-satsen.csprojResolveAssemblyReference.cache
+C:\Users\elliotdg\Documents\Visual Studio 2015\Projects\switch-satsen\switch-satsen\bin\Debug\switch-satsen.exe
+C:\Users\elliotdg\Documents\Visual Studio 2015\Projects\switch-satsen\switch-satsen\bin\Debug\switch-satsen.pdb
+C:\Users\elliotdg\Documents\Visual Studio 2015\Projects\switch-satsen\switch-satsen\obj\Debug\switch-satsen.exe
+C:\Users\elliotdg\Documents\Visual Studio 2015\Projects\switch-satsen\switch-satsen\obj\Debug\switch-satsen.pdb
